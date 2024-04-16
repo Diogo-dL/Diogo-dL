@@ -1,7 +1,7 @@
 ### <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" alt="Mona Octocat" width="48"> Olá, bem vindo(a) ao meu perfil
 
 <p align="left">
-Sou <strong>Diogo Lira</strong>, Cursando Análise e Desenvolvimento de Sistemas, estou determinado a aprender e ter mais conhecimento na área da programação, sempre com foco e constância para que eu possa alcançar os meus objetivos de carreira e de vida!
+Sou <strong>Diogo Lira</strong>, Cursando Análise e Desenvolvimento de Sistemas, estou determinado a aprender e ter mais conhecimento na área da programação, sempre com foco e constância para que eu possa alcançar os meus objetivos de carreira!
 
 Estou em uma constante de aprendizado procurando desafios e oportunidades na área, determinado em aumentar meu networking e fazer parte dessa comunidade incrível.
 
