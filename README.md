@@ -3,7 +3,7 @@
 <p align="left">
 Sou <strong>Diogo Lira</strong>, Cursando Análise e Desenvolvimento de Sistemas, estou determinado a aprender e ter mais conhecimento na área da programação, sempre com foco e constância para que eu possa alcançar os meus objetivos de carreira!
 
-Estou em uma constante de aprendizado procurando desafios e oportunidades na área, determinado em aumentar meu networking e fazer parte dessa comunidade incrível.
+Estou em constante aprendizado, procurando desafios e oportunidades na área, determinado em aumentar meu networking e fazer parte dessa comunidade incrível.
 
 <h2 align="left">
  🚀 Linguagens:
